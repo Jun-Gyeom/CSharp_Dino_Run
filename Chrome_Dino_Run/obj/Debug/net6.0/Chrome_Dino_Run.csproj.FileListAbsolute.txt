@@ -1,0 +1,15 @@
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\bin\Debug\net6.0\Chrome_Dino_Run.exe
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\bin\Debug\net6.0\Chrome_Dino_Run.deps.json
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\bin\Debug\net6.0\Chrome_Dino_Run.runtimeconfig.json
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\bin\Debug\net6.0\Chrome_Dino_Run.dll
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\bin\Debug\net6.0\Chrome_Dino_Run.pdb
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\Chrome_Dino_Run.csproj.AssemblyReference.cache
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\Chrome_Dino_Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\Chrome_Dino_Run.AssemblyInfoInputs.cache
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\Chrome_Dino_Run.AssemblyInfo.cs
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\Chrome_Dino_Run.csproj.CoreCompileInputs.cache
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\Chrome_Dino_Run.dll
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\refint\Chrome_Dino_Run.dll
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\Chrome_Dino_Run.pdb
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\Chrome_Dino_Run.genruntimeconfig.cache
+D:\CSharpClass\CSharp_Console_Game\Chrome_Dino_Run\obj\Debug\net6.0\ref\Chrome_Dino_Run.dll

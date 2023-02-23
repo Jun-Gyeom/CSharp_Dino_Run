@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chrome_Dino_Run/1.0.0": {
+        "runtime": {
+          "Chrome_Dino_Run.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chrome_Dino_Run/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
