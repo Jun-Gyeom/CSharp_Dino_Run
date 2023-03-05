@@ -44,6 +44,8 @@ static void LoadDate()
 }
 ```
 
+### 콘솔 창에서 캐릭터와 장애물을 구현하기 위해 간단한 텍스트로 캐릭터와 장애물을 구현하였습니다.
+
 ## 공룡을 텍스트로 그리는 코드
 ```c#
 static void DrawDino(int y)
