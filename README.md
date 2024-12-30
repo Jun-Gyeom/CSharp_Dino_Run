@@ -1,4 +1,4 @@
-# CSharp_Dino_Run
+# Dino_Run
 
 # < 구글 크롬 공룡 게임 모작>
 
